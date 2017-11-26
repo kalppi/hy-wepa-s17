@@ -19,6 +19,6 @@ public class AliveApplication {
     }
 
     public static String herokuUrl() {
-        return "";
+        return "https://hy-wepa-s17.herokuapp.com/";
     }
 }
