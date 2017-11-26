@@ -8,4 +8,4 @@ cache:
 deploy:
   provider: heroku
   api_key:
-    secure: d743bff8-bb49-422f-a8d2-b651e214d303
+    secure: "d743bff8-bb49-422f-a8d2-b651e214d303"
